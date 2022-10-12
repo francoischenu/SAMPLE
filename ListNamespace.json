@@ -1,0 +1,38 @@
+{
+  "entityId": "KUBERNETES_CLUSTER-0000000000000",
+  "type": "KUBERNETES_CLUSTER",
+  "displayName": "cluster AAAAAAAA",
+  "firstSeenTms": 111111111111,
+  "lastSeenTms": 111111111111111,
+  "properties": {
+  },
+  "tags": [],
+  "managementZones": [
+  ],
+  "icon": {
+    "primaryIconType": "kubernetes-signet"
+  },
+  "fromRelationships": {
+    "isClusterOfNode": [
+    ],
+    "isClusterOfNamespace": [
+      {
+        "id": "CLOUD_APPLICATION_NAMESPACE-XXXXXXXXXXXXXX",
+        "type": "CLOUD_APPLICATION_NAMESPACE"
+      },
+      {
+        "id": "CLOUD_APPLICATION_NAMESPACE-BBBBBBBBBBBBBBB",
+        "type": "CLOUD_APPLICATION_NAMESPACE"
+      }
+    ],
+    "isClusterOfHost": [
+
+    ],
+    "isClusterOfCa": [
+   
+    ],
+    "isClusterOfCai": [
+     
+    ]
+  }
+}

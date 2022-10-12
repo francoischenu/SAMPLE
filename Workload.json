@@ -1,0 +1,34 @@
+{
+  "entityId": "CLOUD_APPLICATION-XXXXXXXXXXXXXXXX",
+  "type": "CLOUD_APPLICATION",
+  "displayName": "SSSSSSSSSSSSSSSSSSSSSSSS",
+  "firstSeenTms": 111111111111,
+  "lastSeenTms": 22222222222222222,
+  "properties": {
+  },
+  "tags": [],
+  "toRelationships": {
+    "isPgOfCa": [
+    ],
+    "isCgiOfCa": [
+    ],
+    "isNamespaceOfCa": [
+    ],
+    "isServiceOf": [
+      {
+        "id": "SERVICE-AAAAAAAAAAAA",
+        "type": "SERVICE"
+      },
+      {
+        "id": "SERVICE-BBBBBBBBBB",
+        "type": "SERVICE"
+      },
+      {
+        "id": "SERVICE-CCCCCCCCCCC",
+        "type": "SERVICE"
+      }
+    ],
+    "isClusterOfCa": [
+    ]
+  }
+}

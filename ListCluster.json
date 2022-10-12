@@ -1,0 +1,29 @@
+{
+  "totalCount": 4,
+  "pageSize": 50,
+  "entities": [
+    {
+      "entityId": "KUBERNETES_CLUSTER-0CD71C1BCD346AA0",
+      "type": "KUBERNETES_CLUSTER",
+      "displayName": "UPM_PF cluster ku002i000244"
+    },
+    {
+      "entityId": "KUBERNETES_CLUSTER-2483D6C8F4E12635",
+      "type": "KUBERNETES_CLUSTER",
+      "displayName": "BP2I cluster ku002i000350"
+    },
+    {
+      "entityId": "KUBERNETES_CLUSTER-4F81BCDB0DA9B3BD",
+      "type": "KUBERNETES_CLUSTER",
+      "displayName": "UPM_PF cluster ku002i000241"
+    },
+    {
+      "entityId": "KUBERNETES_CLUSTER-B1CE470193C0CCE8",
+      "type": "KUBERNETES_CLUSTER",
+      "displayName": "UPM_PF cluster ku002i000231"
+    }
+  ]
+}
+
+
+

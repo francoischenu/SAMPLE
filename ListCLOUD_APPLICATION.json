@@ -1,0 +1,24 @@
+{
+  "entityId": "CLOUD_APPLICATION_NAMESPACE-AAAAAAAAAAAAAA",
+  "type": "CLOUD_APPLICATION_NAMESPACE",
+  "displayName": "XXXXXXXXXX",
+  "firstSeenTms": 011111111111,
+  "lastSeenTms": 2222222222222,
+    "isNamespaceOfPg": [
+    ],
+    "isNamespaceOfCai": [
+    ],
+    "isNamespaceOfCa": [
+      {
+        "id": "CLOUD_APPLICATION-FFFFFFFFFFFFF",
+        "type": "CLOUD_APPLICATION"
+      },
+      {
+        "id": "CLOUD_APPLICATION-GGGGGGGGGGGGGG",
+        "type": "CLOUD_APPLICATION"
+      }
+    ]
+  },
+  "toRelationships": {
+  }
+}
